@@ -1,2 +1,3 @@
-# Ola-mundo
-Primeiro repositório do curso de Git e Git Hub
+## Olá, mundo!
+# Primeiro repositório do curso de Git e Git Hub
+Estou Treinando para por meus Projetos Futuramente!
